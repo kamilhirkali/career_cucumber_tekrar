@@ -1,0 +1,11 @@
+When user go to
+https://editor.datatables.net/
+Click on the new button
+When user enters all fields
+When clicks create button
+And search for the first name
+Then verify the name fields contains first name
+NOTE: Try getting the test data in different forms:
+1. Scenario outline
+2. Data tables
+3. Excel

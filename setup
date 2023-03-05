@@ -1,0 +1,16 @@
+1)Create Project: File -> New -> Project-> Select maven -> click next
+
+2)Name: batch81Cucumber->finish
+
+3)Add Dependencies =>Selenium-java, webdrivermanager,
+ cucumber java, cucumber junit
+
+4)Click Maven => click “Enable auto-reload after any changes”
+(BU MESAJ GORUNMEYEDEBILIR)
+
+5)Java’ya sag click yapip asagidaki paketleri olusturalim
+-utilities
+-pages
+-runners (test case’leri calistirmak ve control etmek icin kullanacagiz)
+-stepdefinitions (kodlarimizi burada olusturacagiz)
+
